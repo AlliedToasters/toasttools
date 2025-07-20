@@ -17,6 +17,7 @@ def contribute_section():
 
 def social_badges():
     st.markdown("""
+    [![GitHub stars](https://img.shields.io/github/stars/alliedtoasters/toasttools?style=social)](https://github.com/alliedtoasters/toasttools)
     [![GitHub followers](https://img.shields.io/github/followers/alliedtoasters?style=social)](https://github.com/alliedtoasters)
     [![Twitter Follow](https://img.shields.io/twitter/follow/AlliedToasters?style=social)](https://x.com/AlliedToasters)
-    """)
+""")
