@@ -1,5 +1,5 @@
 import streamlit as st
-from components import social_badges
+from components import boilerplate as social_badges
 
 
 # message saying feature not yet ready

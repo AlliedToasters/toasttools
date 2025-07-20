@@ -3,7 +3,7 @@ Random tools for hypercore and hyperEVM.
 
 ## run the app
 ```python
-pip install streamlit
+pip install streamlit streamlit-wallet-connect
 streamlit run main.py
 ```
 
